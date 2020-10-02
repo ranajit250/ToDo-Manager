@@ -1,0 +1,18 @@
+.container{
+    background-color: rgba(187, 217, 230, 0.596);
+    padding: 20px;
+    max-height: 480px;
+    overflow-y: scroll;
+    display: block;
+}
+
+.time{
+    font-size:  4rem;
+    font-weight: 600;
+    color: rgb(5, 73, 94);
+}
+
+.greeting{
+    font-size: 2rem;
+    font-weight: 400;
+}
